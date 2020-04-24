@@ -1,11 +1,11 @@
-# Remax Alipay Template
+# Remax Ali Template
 
-使用 Remax 开发支付宝小程序的模板。
+使用 Remax 开发阿里小程序的模板。
 
 通过该模板创建一个新项目：
 
 ```bash
-$ npx degit remaxjs/template-alipay my-app
+$ npx degit remaxjs/template-ali my-app
 $ cd my-app
 ```
 
